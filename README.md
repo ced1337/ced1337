@@ -1,8 +1,5 @@
 ### Hi there 👋,
 
-I'm a computer science student located in Dresden, Germany.
-I've only just begun my journey in the beatiful coding world. 
-Very excited and eager to learn and build!
 
 <!--
 **ced1337/ced1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
